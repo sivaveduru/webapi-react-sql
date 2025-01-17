@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios"; // Direct axios import to make requests
 import "bootstrap/dist/css/bootstrap.min.css";
+import { Link } from "react-router-dom"; // Import Link for navigation
 
 const Register = ({ history }) => {
   const [name, setName] = useState(""); // Added name state
@@ -132,6 +133,20 @@ const Register = ({ history }) => {
               {successMessage && (
                 <div className="mt-3 alert alert-success">{successMessage}</div>
               )}
+
+              {/* Login Link Section */}
+              <div className="mt-3 d-flex justify-content-center">
+                <p className="mb-0">
+                  Already have an account?{" "}
+                  <Link
+                    to="/login"
+                    className="btn btn-link p-0"
+                    style={{ marginTop: "-2px" }}
+                  >
+                    Login here
+                  </Link>
+                </p>
+              </div>
             </div>
           </div>
         </div>

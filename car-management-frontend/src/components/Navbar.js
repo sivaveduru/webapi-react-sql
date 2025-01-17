@@ -16,7 +16,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-custom">
       <div className="container-fluid">
         <Link className="navbar-brand custom-brand" to="/">
-          Car Management App
+          Car Dealer Limited
         </Link>
         <button
           className="navbar-toggler"

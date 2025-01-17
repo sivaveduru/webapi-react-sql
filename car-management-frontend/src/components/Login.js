@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios"; // Direct axios import to make requests
 import "bootstrap/dist/css/bootstrap.min.css";
+import { Link } from "react-router-dom"; // Import Link for navigation
 
 const Login = ({ history }) => {
   const [email, setEmail] = useState("");
@@ -79,6 +80,15 @@ const Login = ({ history }) => {
                 </button>
               </form>
               {error && <div className="mt-3 alert alert-danger">{error}</div>}
+              {/* Register Link */}
+              <div className="mt-3 text-center">
+                <p>
+                  Not registered?{" "}
+                  <Link to="/register" className="btn btn-link">
+                    Register here
+                  </Link>
+                </p>
+              </div>
             </div>
           </div>
         </div>
