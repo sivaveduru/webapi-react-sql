@@ -47,6 +47,15 @@ const Navbar = () => {
             <li className="nav-item">
               <Link
                 className="nav-link custom-nav-link"
+                to="/users"
+                onClick={handleLinkClick}
+              >
+                Users List
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link
+                className="nav-link custom-nav-link"
                 to="/login"
                 onClick={handleLinkClick}
               >
@@ -62,7 +71,7 @@ const Navbar = () => {
                 Register
               </Link>
             </li>
-            {/* Removed "More" dropdown and directly added About Us and Contact Us */}
+
             <li className="nav-item">
               <Link
                 className="nav-link custom-nav-link"

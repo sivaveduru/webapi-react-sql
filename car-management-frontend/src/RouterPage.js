@@ -9,6 +9,7 @@ import CarDetails from "./components/CarDetails";
 import "bootstrap/dist/css/bootstrap.min.css";
 import ContactUs from "./components/ContactUS";
 import AboutUs from "./components/AboutUs";
+import UsersList from "./components/UsersList";
 
 const RouterPage = () => {
   return (
@@ -23,6 +24,7 @@ const RouterPage = () => {
           <Route path="/cars/:id" element={<CarDetails />} />
           <Route path="/contact" element={<ContactUs />} />
           <Route path="/about" element={<AboutUs />} />
+          <Route path="/users" element={<UsersList />} />
         </Routes>
       </div>
     </Router>

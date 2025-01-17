@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\migrations\\20250116154600_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\migrations\\20250116154600_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\migrations\\20250117164316_createcontactformmessagestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\migrations\\20250117164316_createcontactformmessagestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\migrations\\20250117170556_createuserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\migrations\\20250117170556_createuserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\models\\contactformmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\models\\contactformmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +54,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250116154600_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Migrations\\20250116154600_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Migrations\\20250116154600_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Migrations\\20250116154600_InitialCreate.cs",
+              "RelativeToolTip": "CarManagementSystem\\Migrations\\20250116154600_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:27:40.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\DbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\DbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CarManagementSystem\\DbContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:38:22.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "CarManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:50:26.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CarManagementSystem\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:03:03.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CarManagementSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv2sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:18:51.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Program.cs",
+              "RelativeToolTip": "CarManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:28:27.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250117164316_CreateContactFormMessagesTable.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Migrations\\20250117164316_CreateContactFormMessagesTable.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Migrations\\20250117164316_CreateContactFormMessagesTable.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Migrations\\20250117164316_CreateContactFormMessagesTable.cs",
+              "RelativeToolTip": "CarManagementSystem\\Migrations\\20250117164316_CreateContactFormMessagesTable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:27:30.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250117170556_CreateUsersTable.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Migrations\\20250117170556_CreateUsersTable.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Migrations\\20250117170556_CreateUsersTable.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Migrations\\20250117170556_CreateUsersTable.cs",
+              "RelativeToolTip": "CarManagementSystem\\Migrations\\20250117170556_CreateUsersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:27:20.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactFormMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Models\\ContactFormMessage.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Models\\ContactFormMessage.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Models\\ContactFormMessage.cs",
+              "RelativeToolTip": "CarManagementSystem\\Models\\ContactFormMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:37:34.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CarManagementSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:31:35.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "CarManagementSystem\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:32:26.698Z",
+              "EditorCaption": ""
             }
           ]
         }
