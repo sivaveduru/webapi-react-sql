@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|c:\\users\\siva\\desktop\\project16\\carmanagementsystem\\carmanagementsystem\\carmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3052F7C0-FDC5-4A14-8D38-E51D1058C04F}|CarManagementSystem\\CarManagementSystem.csproj|solutionrelative:carmanagementsystem\\carmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\WeatherForecast.cs",
+              "RelativeToolTip": "CarManagementSystem\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:39:27.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\DbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\DbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CarManagementSystem\\DbContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:00:06.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Program.cs",
+              "RelativeToolTip": "CarManagementSystem\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:52:12.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CarManagementSystem\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:05:53.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Models\\Car.cs",
+              "RelativeToolTip": "CarManagementSystem\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:58:22.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CarManagementSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:32:48.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarManagementSystem",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\CarManagementSystem.csproj",
+              "RelativeDocumentMoniker": "CarManagementSystem\\CarManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\CarManagementSystem.csproj",
+              "RelativeToolTip": "CarManagementSystem\\CarManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T17:49:35.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CarManagementSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Siva\\Desktop\\Project16\\CarManagementSystem\\CarManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "CarManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:52:39.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

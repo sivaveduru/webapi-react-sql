@@ -1,0 +1,52 @@
+/* Apply a custom background color to the navbar */
+.navbar-custom {
+  background-color: #4caf50; /* Green background color */
+  font-family: "Arial", sans-serif; /* Apply Arial font to the navbar */
+  font-weight: bold; /* Make navbar text bold */
+  text-transform: uppercase; /* Make the text uppercase */
+}
+
+/* Custom style for the brand (Car Management App) */
+.custom-brand {
+  font-family: "Roboto", sans-serif; /* Different font family */
+  font-weight: bolder;
+  font-size: 2.5rem;
+  color: #fff; /* White text color */
+  letter-spacing: 2px; /* Letter spacing for better design */
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Add a shadow effect */
+}
+
+/* Style for the navbar menu items */
+.custom-nav-link {
+  font-size: 1.1rem; /* Slightly larger text for better readability */
+  font-weight: bold; /* Bold text */
+  color: #fff !important; /* White text color for links */
+  margin-right: 15px; /* Space between menu items */
+  text-transform: capitalize; /* Capitalize menu items */
+}
+
+.custom-nav-link:hover {
+  color: #f1c40f !important; /* Gold color on hover */
+  text-decoration: none; /* Remove underline on hover */
+}
+
+/* Dropdown Menu Customization */
+.nav-item.dropdown .dropdown-menu {
+  background-color: #4caf50; /* Same green as the navbar */
+}
+
+.nav-item.dropdown .dropdown-menu .dropdown-item {
+  color: #fff;
+}
+
+.nav-item.dropdown .dropdown-menu .dropdown-item:hover {
+  background-color: #f1c40f;
+  color: #fff;
+}
+
+@media (max-width: 992px) {
+  /* Ensure dropdown items are aligned properly for small screens */
+  .navbar-nav.ms-auto {
+    text-align: center;
+  }
+}

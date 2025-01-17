@@ -1,0 +1,31 @@
+/* Custom styles for Car Management page */
+.car-item {
+  background-color: #f9f9f9; /* Light background */
+  margin-bottom: 15px; /* Add gap between list items */
+  padding: 15px;
+  border-radius: 8px; /* Rounded corners */
+  font-family: "Roboto", sans-serif; /* Stylish font */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.car-info {
+  font-size: 16px;
+  font-weight: 500; /* Bold but not overwhelming */
+}
+
+h1,
+h2 {
+  font-family: "Lora", serif; /* Elegant font for headings */
+  color: #333;
+}
+
+button {
+  font-weight: 600;
+  padding: 8px 12px;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Lora:wght@700&display=swap");

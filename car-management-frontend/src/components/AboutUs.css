@@ -1,0 +1,116 @@
+/* Overall background and layout */
+.about-container {
+  background-color: #fafafa; /* Light gray background */
+  color: #333; /* Dark text color for readability */
+  padding: 50px 0;
+  font-family: "Roboto", sans-serif;
+  min-height: 100vh;
+}
+
+/* Title and Description */
+.about-title {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #4b4b4b; /* Soft dark gray */
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.about-description {
+  font-size: 1.3rem;
+  color: #5f5f5f; /* Light gray text */
+  margin-bottom: 50px;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+}
+
+/* Subtitles for Mission, Vision */
+.about-subtitle {
+  font-size: 2rem;
+  color: #007bff; /* Blue color for headings */
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+/* Content Text Styling */
+.about-text {
+  font-size: 1.1rem;
+  color: #555; /* Slightly darker gray for text */
+  line-height: 1.6;
+  font-weight: 400;
+}
+
+/* Team Section */
+.team-section {
+  margin-top: 60px;
+}
+
+.team-member {
+  margin-bottom: 30px;
+}
+
+.team-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.team-name {
+  font-size: 1.2rem;
+  color: #333; /* Dark text for name */
+  font-weight: 600;
+}
+
+.team-role {
+  font-size: 1rem;
+  color: #888; /* Lighter gray for role */
+}
+
+/* Footer Text */
+.about-footer-text {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: #777; /* Subtle gray for footer text */
+  margin-top: 40px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .about-title {
+    font-size: 2.5rem; /* Smaller title for mobile */
+  }
+
+  .about-description {
+    font-size: 1.1rem; /* Smaller description text */
+  }
+
+  .about-subtitle {
+    font-size: 1.8rem; /* Smaller subtitles on mobile */
+  }
+
+  .about-text {
+    font-size: 1rem; /* Smaller body text */
+  }
+
+  .team-member {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .team-img {
+    width: 120px;
+    height: 120px; /* Adjust image size for smaller screens */
+  }
+
+  .team-name {
+    font-size: 1rem; /* Smaller name font size */
+  }
+
+  .team-role {
+    font-size: 0.9rem; /* Smaller role text */
+  }
+}
